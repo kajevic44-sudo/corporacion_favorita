@@ -1,0 +1,18 @@
+# MLflow store (large local files)
+mlflow_results/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.env
